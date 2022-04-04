@@ -1,0 +1,34 @@
+* {
+    padding: 10;
+    margin: 20;
+    box-sizing: border-box; }
+  
+  header {
+    display: flex;
+    padding: 15px;
+    align-items: center;
+    justify-content: space-between; }
+  
+  header img {
+    border-radius: 50%; }
+  
+  body {
+    background-color: #fde8f7; }
+  
+  nav {
+    display: inline-flex; }
+  
+  nav a {
+    color: #d12e49;
+    text-decoration: none; }
+
+  nav a:hover {
+    text-decoration: underline; }
+  
+  nav ul {
+    list-style: none;
+    display: inline-flex; }
+  
+  nav li {
+    list-style: none;
+    margin-left: 10px; }

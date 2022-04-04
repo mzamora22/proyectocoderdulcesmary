@@ -1,0 +1,107 @@
+.textodestacado {
+    font-size: 30px;
+    font-weight: 70%;
+    font-family: cursive;
+    color: black; }
+  
+  .parrafoinicial {
+    font-size: 20px;
+    font-style: italic; }
+  
+  section {
+    margin: 20px 20px 20px 20px; }
+  
+  .seccion-principal {
+    width: 100%;
+    height: 800px;
+    background-image: url(../img/fotoprincipal.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: left;
+    margin: 0px 0px 0px 0px;
+    padding: 50px 50px 50px 50px; }
+  
+  .seccion-principal .cuerpo-seccion {
+    padding: 40px;
+    width: 500px;
+    border-radius: 15px; }
+  
+  .seccion-principal-galeria {
+    background-image: url(../img/fondoinfantil.jpg);
+    width: 100%;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    background-attachment: fixed;
+    margin: 0px;
+    padding: 50px; }
+  
+  .seccion-principal .cuerpo-galeria {
+    font-size: 60px;
+    font-family: 'Courgette', cursive;
+    color: violet;
+    margin-top: 0px; }
+  
+  .seccion-principal-cuerpo-galeria h2 {
+    font-size: 60px;
+    font-family: 'Courgette', cursive;
+    color: violet;
+    margin-top: 0px;
+    text-align: center; }
+  
+  .seccion-principal-recetas {
+    background-image: url(../img/tortachocolate.jpg);
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    background-attachment: fixed;
+    margin: 0px;
+    padding: 50px; }
+  
+  .seccion-principal-cuerpo-recetas {
+    font-size: 60px;
+    font-family: 'Courgette', cursive;
+    color: violet;
+    margin-top: 0px;
+    text-align: center; }
+  
+  .seccion-secundaria {
+    border: violet;
+    border-style: solid;
+    border-radius: 0.5%; }
+  
+  .seccion-secundaria .cabecera-seccion {
+    background: violet;
+    padding: 20px;
+    color: white; }
+  
+  .parrafogaleria {
+    text-align: left;
+    font-size: 20px;
+    font-style: italic; }
+  
+  .seccion-secundaria .cuerpo-seccion {
+    padding: 20px; }
+  
+  .card {
+    width: 300px;
+    padding: 1rem;
+    background-color: white;
+    margin-top: 20px;
+    border-radius: 15px;
+    text-align: center; }
+  
+  .foto img {
+    width: 100%; }
+  
+  .foto h4 {
+    text-align: center; }
+  
+  .justificado {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; }
